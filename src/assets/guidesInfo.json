@@ -1,0 +1,25 @@
+{   "new" :[
+        {
+            "title": "Hot Methodologies",
+            "desc": "New and innovative approaches for identifying and reporting software vulnerabilities that are not widely known or commonly used. This guide offers fresh insights and techniques for detecting and addressing security flaws in software.",
+            "site": "#"
+        },
+        {
+            "title": "Undectable attacks on IoT",
+            "desc": "Undetectable attacks on IoT refer to security breaches that occur on internet-connected devices such as smart home devices, wearables, or industrial systems, without being detected by the device owner or security systems.",
+            "site": "#"
+        }
+    ],
+    "popular": [
+        {
+            "title":"The new wave of CyberSec frameworks",
+            "desc": "Recent trend in the development and adoption of comprehensive security frameworks designed to address the rapidly evolving cybersecurity threat landscape. These frameworks are often based on industry standards and are intended to provide organizations with a systematic approach to managing cybersecurity risks.",
+            "site":"#"
+        },
+        {
+            "title":"Advanced recon techniques",
+            "desc":" Methods used to gather intelligence about a target before carrying out a cyber attack. Advanced recon techniques are more sophisticated than basic recon techniques and involve the use of advanced tools and technologies to collect and analyze data from a wide range of sources.",
+            "site":"#"    
+        }
+    ]
+}

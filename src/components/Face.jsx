@@ -5,10 +5,10 @@ const Face = () => {
   return (
     <div className='w-4/5 h-[75vh]  mt-16 mx-auto grid grid-cols-[75%_25%] tracking-wide'>
         <div>
-            <h1 className='text-white text-9xl font-bold'>
+            <h1 className='text-[#141414] text-9xl font-bold dark:text-white'>
                 DEFENSE TRACK            
             </h1>
-            <h4 className='text-[#c7c7c7] mt-4 text-lg font-medium'>// Professionally curated guides covering modern bug bounty methodologies</h4>
+            <h4 className='text-[#5b5955] mt-4 text-lg font-medium dark:text-[#c7c7c7]'>// Professionally curated guides covering modern bug bounty methodologies</h4>
         </div>
         <MiniForm />
     </div>

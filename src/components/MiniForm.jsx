@@ -1,6 +1,9 @@
 import React from 'react'
 
+
 const MiniForm = () => {
+
+
   return (
     <form className='h-full w-full text-[#141414] dark:text-white'>
         <h2 className='font-bold mb-4 text-lg'>Looking for weekly updates?</h2>

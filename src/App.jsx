@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <div className={darkMode ? 'dark w-max-screen bg-[#141414]' :  ' w-max-screen bg-[#fcf1e6]'}>
+        <div className={darkMode ? 'dark w-max-screen bg-[#141414] transition ease-in-out ' :  ' w-max-screen bg-[#fcf1e6] transition ease-in-out'}>
           <Header darkMode={darkMode} setDarkMode={setDarkMode} />
            <Routes>
             <Route path='/' element={<Face darkMode={darkMode} />}/>
